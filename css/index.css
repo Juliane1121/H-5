@@ -46,14 +46,14 @@
 .page1 img:nth-of-type(5) {
 	width: .80rem;
 	height: .655rem;
-	left: 2.72rem;
-	top: .28rem;
+	left: 2.7rem;
+	top: .25rem;
 }
 
 .page1 img:nth-of-type(6) {
 	width: .77rem;
 	height: .96rem;
-	left:.26rem;
+	left:.24rem;
 	top:1.5rem;
 }
 .page1 img:nth-of-type(7) {
@@ -86,6 +86,12 @@
 	left:0.8rem;
 	top: 1.0rem;
 }
+.page1 img:nth-of-type(12) {
+	width: 2.02rem;
+	height: 1.03rem;
+	left:1.0rem;
+	top: 3.2rem;
+}
 
 /* PAGE2 */
 .page2 {
@@ -113,15 +119,15 @@
 .page2 img:nth-of-type(3) {
 	width: .80rem;
 	height: .655rem;
-	left: 2.72rem;
-	top: .28rem;
+	left: 2.7rem;
+	top: .25rem;
 }
 
 .page2 img:nth-of-type(4){
 	width: .77rem;
 	height: .96rem;
-	left:.26rem;
-	top:.27rem;
+	left:.24rem;
+	top:.25rem;
 }
 .page2 img:nth-of-type(5){
 	width: 1.6rem;
@@ -132,8 +138,8 @@
 .page2 img:nth-of-type(6){
 	width: 2.1rem;
 	height: 0.1rem;
-	left:0.85rem;
-	top:1rem;
+	left:0.8rem;
+	top:0.85rem;
 }
 .page2 img:nth-of-type(7){
 	width: 2.38rem;
@@ -166,4 +172,250 @@
 	height: 0.6rem;
 	left:3.2rem;
 	top: 1.5rem;
+}
+/* Page3 style */
+.page3 img {
+	position: absolute;
+}
+
+.page3 img:nth-of-type(1) {
+	width: 3.2rem;
+	height: 5.32rem;
+	left: .3rem;
+	top: .25rem;
+}
+.page3 img:nth-of-type(2) {
+	width: 2.79rem;
+	height: 4.41rem;
+	top: .5rem;
+	left: .5rem;
+}
+.page3 img:nth-of-type(3) {
+	width: 2.0rem;
+	height: 0.6rem;
+	left:0.9rem;
+	top: 0.7rem;
+}
+.page3 img:nth-of-type(4) {
+	width: .80rem;
+	height: .655rem;
+	left: 2.7rem;
+	top: .25rem;
+}
+
+.page3 img:nth-of-type(5){
+	width: .77rem;
+	height: .96rem;
+	left:.24rem;
+	top:.25rem;
+}
+.page3 img:nth-of-type(6){
+	width: 1.9rem;
+	height: 0.1rem;
+	left:0.85rem;
+	top:.4rem;
+}
+.page3 img:nth-of-type(7) {
+	width: 0.13rem;
+	height: 0.6rem;
+	left:3.2rem;
+	top: 1.5rem;
+}
+.page3 img:nth-of-type(8) {
+	width: 2.5rem;
+	height: 1.45rem;
+	left:0.56rem;
+	top: 1.3rem;
+}
+.page3 img:nth-of-type(9) {
+	width: 1.12rem;
+	height: 0.75rem;
+	left:0.83rem;
+	top: 2.7rem;
+}
+.page3 img:nth-of-type(10) {
+	width: 0.9rem;
+	height: 0.75rem;
+	left:2.05rem;
+	top: 2.7rem;
+}
+.page3 img:nth-of-type(11) {
+	width: 2.1rem;
+	height: 1.2rem;
+	left:0.83rem;
+	top: 3.5rem;
+}
+.page3 img:nth-of-type(12){
+    width: 0.6rem;
+	height: 0.9rem;
+	left:2.9rem;
+	top: 4.2rem;
+}
+.page3 img:nth-of-type(13){
+	width: 4.0rem;
+	height: 1.8rem;
+	left:0rem;
+	top: 3.77rem;
+}
+.page3 img:nth-of-type(14){
+	width: 1.6rem;
+	height: .6rem;
+	left:0.35rem;
+	top:4.7rem;
+}
+/* PAGE4 style */
+.page4 img {
+	position: absolute;
+}
+
+.page4 img:nth-of-type(1) {
+	width: 3.2rem;
+	height: 5.32rem;
+	left: .3rem;
+	top: .25rem;
+}
+.page4 img:nth-of-type(2) {
+	width: 2.79rem;
+	height: 4.41rem;
+	top: .5rem;
+	left: .5rem;
+}
+.page4 img:nth-of-type(3) {
+	width: 2.0rem;
+	height: 0.6rem;
+	left:0.9rem;
+	top: 0.7rem;
+}
+.page4 img:nth-of-type(4) {
+	width: .80rem;
+	height: .655rem;
+	left: 2.7rem;
+	top: .25rem;
+}
+
+.page4 img:nth-of-type(5){
+	width: .77rem;
+	height: .96rem;
+	left:.24rem;
+	top:.25rem;
+}
+.page4 img:nth-of-type(6){
+	width: 1.9rem;
+	height: 0.1rem;
+	left:0.85rem;
+	top:.4rem;
+}
+.page4 img:nth-of-type(7) {
+	width: 0.13rem;
+	height: 0.6rem;
+	left:3.2rem;
+	top: 1.5rem;
+}
+.page4 img:nth-of-type(8){
+    width: 0.6rem;
+	height: 0.9rem;
+	left:2.9rem;
+	top: 4.2rem;
+}
+.page4 img:nth-of-type(9){
+	width: 4.0rem;
+	height: 1.8rem;
+	left:0rem;
+	top: 3.77rem;
+}
+.page4 img:nth-of-type(10){
+	width: 1.6rem;
+	height: .6rem;
+	left:0.35rem;
+	top:4.7rem;
+}
+.page4 img:nth-of-type(11){
+	width: 2.3rem;
+	height: 3.2rem;
+	left:0.75rem;
+	top:1.3rem;
+}
+/* Page5 style */
+.page5 img {
+	position: absolute;
+}
+
+.page5 img:nth-of-type(1) {
+	width: 3.2rem;
+	height: 5.32rem;
+	left: .3rem;
+	top: .25rem;
+}
+.page5 img:nth-of-type(2) {
+	width: 2.79rem;
+	height: 4.41rem;
+	top: .5rem;
+	left: .5rem;
+}
+.page5 img:nth-of-type(3) {
+	width: .80rem;
+	height: .655rem;
+	left: 2.7rem;
+	top: .25rem;
+}
+
+.page5 img:nth-of-type(4){
+	width: .77rem;
+	height: .96rem;
+	left:.24rem;
+	top:.25rem;
+}
+.page5 img:nth-of-type(5) {
+	width: 2.09rem;
+	height: 1.63rem;
+	left:0.9rem;
+	top: 3rem;
+}
+.page5 img:nth-of-type(6) {
+	width: 1.09rem;
+	height: 1.43rem;
+	left:1.34rem;
+	top: 3.1rem;
+}
+.page5 img:nth-of-type(7) {
+	width: 4.0rem;
+	height: 1.8rem;
+	left:0rem;
+	top: 3.77rem;
+}
+.page5 img:nth-of-type(8) {
+	width: 0.13rem;
+	height: 0.6rem;
+	left:3rem;
+	top: 1.5rem;
+}
+.page5 img:nth-of-type(9) {
+	width: 2.1rem;
+	height: 0.1rem;
+	left:0.8rem;
+	top: 0.88rem;
+}
+.page5 img:nth-of-type(10){
+	width: 1.6rem;
+	height: .6rem;
+	left:1.0rem;
+	top:.3rem;
+}
+.page5 img:nth-of-type(11){
+	width: 1.8rem;
+	height: 0.4rem;
+	left:1.0rem;
+	top:1.0rem;
+}
+.page5 img:nth-of-type(12){
+	width: 2.2rem;
+	height: 1.5rem;
+	left:0.8rem;
+	top:1.5rem;
+}
+.page5 img:nth-of-type(13) {
+	width: 2.02rem;
+	height: 1.03rem;
+	left:1.0rem;
+	top: 3.2rem;
 }
